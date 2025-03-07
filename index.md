@@ -10,11 +10,11 @@ test
 ### 3 hash header
 test
 
-ala ma kota
-ala miała kota
+- [x] ala ma kota
+- [ ] ala miała kota
 
 alema
-**psa**
+- [ ] **psa**
 
 >gdzie
 >ten
