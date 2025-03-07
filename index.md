@@ -7,29 +7,8 @@ test
 #### 4 hash header
 test
 
-###### 6 hash header
+### 3 hash header
 test
-
-smoething
-'something'
-
-> somethi
-> n
-> g
-
-+ te
-+ s
-+ t
-
-## 2 header
-  test
-    mroe tesrt
-**wow**
-
-_itallics_
-
-## 
-Test
 
 ala ma kota
 ala miała kota
@@ -41,6 +20,12 @@ alema
 >ten
 >kot
 >?
+
 ![kot](https://media1.tenor.com/m/CJAzSgd6Vu8AAAAC/cute-cat-cat.gif)
 
+## kod 🐱
+``` python
+for i in range(0,4)
+  print(i)
+```
 
